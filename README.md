@@ -24,7 +24,3 @@ Course 9: [Coding Interview Preparation](https://www.coursera.org/learn/coding-i
 
 
 This program is your gateway to mastering the essential skills and concepts required in Front-End Development, from the basics of HTML and CSS to advanced JavaScript and React. You'll also dive into crucial topics like version control, UX/UI design principles, and coding interview preparation to round out your expertise.
-
-Join us on this exciting journey and empower yourself to become a proficient Front-End Developer.
-
-Embark on a rewarding career journey with the Meta Front-End Developer Professional Certificate today!
